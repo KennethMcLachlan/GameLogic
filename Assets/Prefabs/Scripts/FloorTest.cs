@@ -20,5 +20,10 @@ public class FloorTest : MonoBehaviour
                 Instantiate(_spherePrefab, hitInfo.point, Quaternion.identity);
             }
         }
+
+        LayerMask mask = LayerMask.GetMask("Enemy");
+        
+
+
     }
 }

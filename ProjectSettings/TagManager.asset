@@ -16,9 +16,9 @@ TagManager:
   - Water
   - UI
   - Cube Raycast Layer
-  - 
-  - 
-  - 
+  - Enemy
+  - Floor
+  - Player
   - 
   - 
   - 
